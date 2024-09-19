@@ -1,0 +1,1 @@
+spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.2,org.apache.kafka:kafka-clients:3.8.0 consumer.py
